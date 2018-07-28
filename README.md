@@ -8,5 +8,5 @@ Lua is a simple scripting language for both beginners and experienced developers
 
 ### Where do I start?
 
-Get started with Lukkit through our getting started guide. We offer extensive documentation and a multitude of examples to get you going with Lukkit plugin development. For support or more information, contact us via Discord.
+Get started with Lukkit through our [getting started](getting-started/) guide. We offer extensive documentation and a multitude of examples to get you going with Lukkit plugin development. For support or more information, contact us via Discord.
 
